@@ -17,6 +17,12 @@ Covid-19の状況を鑑みて、体温登録機能も付与しております。
 
 * [導入方法](./Install.md)
 
+# Power Apps インポートファイル
+
+以下のファイルとなります
+
+* [PowerApps_WorkInOutApp.zip](./import/PowerApps_WorkInOutApp.zip)
+
 # LICENSE
 
 本資料及びソースは、GNU General Public License Version 3 によって保護されています。
