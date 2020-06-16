@@ -17,7 +17,7 @@ Covid-19の状況を鑑みて、対応登録機能も付与しております。
 
 * [導入方法](./Install.md)
 
-＃ LICENSE
+# LICENSE
 
 本資料及びソースは、GNU General Public License Version 3 によって保護されています。
 
