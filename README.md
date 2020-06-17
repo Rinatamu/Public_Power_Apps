@@ -11,6 +11,11 @@ Covid-19の状況を鑑みて、体温登録機能も付与しております。
 * [コロナ対策エンジニア YouTube 動画](https://youtu.be/vhNnE5XSDbo)
 * [登壇資料](https://speakerdeck.com/rnakamuramartiny/power-apps-dechu-tui-qin-guan-li-apuriwozuo-cheng-suru)
 
+# 本アプリの特徴
+
+本アプリは、Microsoft 365 及び Office 365 enterprise のライセンスのみで動作するよう設計されています。
+
+
 # 導入方法について
 
 以下の資料をご確認ください。
